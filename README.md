@@ -144,7 +144,7 @@
          <div class="box8 box"><div class="box8content"><h2 class="toy">Toys</h2>
              <div class="box8img" style="background-image: url(toys.jpg);">  </div>
              <p>See more!</p></div> </div>
-             
+              
 </div>
 
 
